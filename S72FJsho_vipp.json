@@ -48,15 +48,14 @@
     "searchable":1
     },
     {
-      "key": "csp_XBiu看世界",
-      "name": "🦅看视界🦅",
-      "api": "csp_XBiubiu",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://agit.ai/lkbx741/apps/raw/branch/main/json/%e7%9c%8b%e4%b8%96%e7%95%8c.json"
-    },
+    "key": "csp_XBiu看视界",
+    "name": "看视界",
+    "type": 3,
+    "api": "csp_XBiu",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "http://1080kan.tv/show/{cateId}--------{catePg}---.html"},
      {
       "key": "360_spider",
       "name": "🏵360影视(官)",
