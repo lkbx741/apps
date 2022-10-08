@@ -48,9 +48,9 @@
     "searchable":1
     },
     {
-      "key": "KanSJ_spider",
+      "key": "csp_XBiu看世界",
       "name": "🦅看视界🦅",
-      "api": "csp_KanSJ",
+      "api": "csp_XBiu",
       "type": 3,
       "filterable": 1,
       "quickSearch": 1,
