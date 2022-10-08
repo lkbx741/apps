@@ -1409,6 +1409,24 @@
             "type": 2,
             "url": "Sequence"
         },
+    {"name":"佳宸","type":0,"url":"http://1link.atwebpages.com/?url="},
+    {"name":"解析1","type": 1,"url": "http://newjiexi.gotka.top/keyu3.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺",
+     "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+    {"name":"解析2","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+    {"name":"解析3","type":1,"url":"https://jiexi.pengdouw.com/jiexi2/?url="},
+    {"name":"解析4","type":1,"url":"https://svip.bljiex.cc/?v="},
+    {"name":"解析5","type":1,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"解析6","type":1,"url":"https://okjx.cc/?url="},
+    {"name":"解析7","type":1,"url":"https://jx.beiyan.cc:4433/?url="},
+    {"name":"解析8","type":1,"url":"https://go.yh0523.cn/y.cy?url="},
+    {"name":"解析9","type":1,"url":"https://dm.xmflv.com:4433/?url="},
+    {"name":"解析10","type":1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"解析11","type":1,"url":"http://api.wpsseo.cn/?v="},
+    {"name":"解析12","type":1,"url":"https://jx.aidouer.net/?url="},
+    {"name":"解析13","type":1,"url":"https://jiexi.pengdouw.com/jiexi2/?url="},
+    {"name":"解析14","type":1,"url":"https://y.9dan.cc/?v="}
+    ],
+
         {
             "name": "风起陇西1",
             "type": 1,
