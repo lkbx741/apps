@@ -51,10 +51,10 @@
     "key": "csp_XBiu看视界",
     "name": "看视界",
     "type": 3,
-    "api": "csp_XBiu",
+    "api": "csp_XBiubiu",
     "searchable": 1,
     "quickSearch": 1,
-    "filterable": 0,
+    "filterable": 1,
     "ext": "https://agit.ai/lkbx741/apps/raw/branch/main/json/%e7%9c%8b%e4%b8%96%e7%95%8c.json"},
      {
       "key": "360_spider",
