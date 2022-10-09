@@ -47,14 +47,15 @@
     "quickSearch":1,
     "searchable":1
     },
-    {"key":"KanSJ_spider",
-    "name":"看视界",
-    "api":"csp_KanSJ",
-    "type":3,
-    "filterable":1,
-    "quickSearch":1,
-    "searchable":1,
-    "jar":"https://agit.ai/lkbx741/apps/raw/branch/main/jar/kansj.jar;md5;7EACB357CF27ABCE92ED497367221E5A"},
+   {
+     "key":"csp_xbb_voflix",
+     "name":"🏵Voflix HD",
+     "type":3,
+     "api":"csp_XBiubiu",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":0,
+     "ext":"https://agit.ai/lkbx741/apps/raw/branch/main/json/voflix.json"},
      {
       "key": "360_spider",
       "name": "🏵360影视(官)",
