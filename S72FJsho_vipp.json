@@ -1460,13 +1460,9 @@
         {            
             "name": "恩哥8",
             "type": 1,
-            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
-        {
-            "name":"江湖",
-            "type":1,
-            "url":"https://api.jhdyw.vip/?url=",
-            "ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}  
-    ],
+            "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="}
+        
+         ],
        
     
 "flags": [
